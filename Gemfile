@@ -8,6 +8,7 @@ gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'devise'
 gem 'carrierwave'
+gem 'cancancan'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
